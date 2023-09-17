@@ -47,10 +47,6 @@ Before you can run this project, you'll need the following:
 
 - `main.go`: The main application file. It contains the scraping logic using Colly and the database interaction using GORM.
 
-- `models/car.go`: Defines the data structure for the Car entity, which corresponds to the MySQL table schema.
-
-- `database/database.go`: Handles database initialization and connection setup using GORM.
-
 ## Contributing
 
 Feel free to contribute to this project by submitting issues, proposing new features, or sending pull requests. Your contributions are greatly appreciated!
